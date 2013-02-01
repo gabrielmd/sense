@@ -1,0 +1,2 @@
+../bin/cxx Network.cc
+g++ -Wall -O6 -o Network Network.cxx
